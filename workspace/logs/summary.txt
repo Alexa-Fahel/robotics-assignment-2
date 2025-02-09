@@ -1,0 +1,3 @@
+This is the first set of notes for the docs folder
+This is the second set of notes for the doc folder
+This is the third set of notes for the docs folder
